@@ -1,6 +1,6 @@
 # vue-router-example
 
-> example use vue router
+> example use vue router live project [here](https://kusillus.github.io/vue-router-example/)
 
 ## Build Setup
 
